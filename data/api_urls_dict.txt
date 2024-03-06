@@ -1,0 +1,22 @@
+{
+  "Profile": "https://api.chess.com/pub/player/{username}",
+  "Titled Players": "https://api.chess.com/pub/titled/{title_abbrev}",
+  "Stats": "https://api.chess.com/pub/player/{username}/stats",
+  "Player online status": "https://api.chess.com/pub/player/{username}/is_online",
+  "Current Daily Chess": "https://api.chess.com/pub/player/{username}/games",
+  "Concise To-Move Daily Chess": "https://api.chess.com/pub/player/{username}/games/to",
+  "Available Archives": "https://api.chess.com/pub/player/{username}/games/archives",
+  "Monthly Archives": "https://api.chess.com/pub/player/{username}/games/{YYYY}/{MM}",
+  "List of clubs": "https://api.chess.com/pub/country/{iso}/clubs",
+  "Team Matches": "https://api.chess.com/pub/club/{ID}/matches",
+  "Tournaments": "https://api.chess.com/pub/player/{username}/tournaments",
+  "Clubs": "https://api.chess.com/pub/club/{url_ID}",
+  "Tournament round": "https://api.chess.com/pub/tournament/{url_ID}",
+  "Daily Team Match": "https://api.chess.com/pub/match/{ID}",
+  "Team matches": "https://api.chess.com/pub/match",
+  "Country Profile": "https://api.chess.com/pub/country/{iso}",
+  "List of players": "https://api.chess.com/pub/country/{iso}/players",
+  "Daily puzzle": "https://api.chess.com/pub/puzzle",
+  "Streamers": "https://api.chess.com/pub/streamers",
+  "Leaderboards": "https://api.chess.com/pub/leaderboards"
+}
